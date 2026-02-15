@@ -1,5 +1,5 @@
-# photoo 📸
-![logo](logo.png)
+<img src="logo.png" width="150" alt="photoo" align="center" />
+# photoo
 > 你的回忆，私有且智能。
 
 [![License](https://img.shields.io/badge/License-photoo%20Source%20License-blue.svg)](LICENSE)
