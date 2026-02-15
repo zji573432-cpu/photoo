@@ -1,0 +1,61 @@
+# photoo Source Code License Agreement
+
+**Version 1.0**
+
+Copyright © 2025 photoo
+
+---
+
+## Preamble
+
+photoo is a privacy-focused local photo organization tool. The purpose of this license is to allow security researchers and tech enthusiasts to review the code for privacy and security verification, while preventing the code from being modified, distributed, or used for commercial purposes.
+
+---
+
+## License Terms
+
+### Article 1: Permitted Use
+
+Subject to the following conditions, you are permitted to:
+
+1. **Security Audit**: Download, view, and analyze the source code of this project for privacy and security verification purposes.
+
+### Article 2: Prohibited Actions
+
+The following actions are expressly prohibited:
+
+1. **No Modification**: You may not modify, adapt, or translate the source code in any way.
+2. **No Distribution**: You may not distribute, disseminate, republish, or share the source code or compiled artifacts in any form.
+3. **No Commercial Use**: You may not use this project for any commercial purposes, including but not limited to:
+   - As part of a paid product or service
+   - For advertising or promotional purposes
+   - Incorporating into any commercial product or service
+4. **No Derivative Works**: You may not create derivative works, modifications, or "reskin" products based on this project.
+5. **No Reverse Engineering**: You may not reverse engineer this project (except for security audit purposes expressly permitted by law).
+
+### Article 3: Trademarks
+
+The "photoo" name and related logos are reserved trademarks of this project. No one may use these without express written permission.
+
+### Article 4: Disclaimer
+
+This project is provided "as is" without any express or implied warranties, including but not limited to:
+- Merchantability
+- Fitness for a particular purpose
+- Non-infringement
+
+The author shall not be liable for any direct or indirect losses arising from the use of this project.
+
+### Article 5: Termination
+
+If you violate any terms of this license, this license terminates automatically. You must immediately cease all use of any content from this project upon receiving notice of termination.
+
+---
+
+## Contact
+
+For special licensing arrangements related to security audits or other inquiries, please contact the author through appropriate channels.
+
+---
+
+**The final interpretation rights of this license belong to the photoo project.**
